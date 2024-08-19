@@ -1,4 +1,4 @@
-## 👨‍💻 Hey there ! I'm Mickaël ANDRIAMANANJAONA, full stack developer, from La Réunion in France
+## 👋 Hey there ! I'm Mickaël ANDRIAMANANJAONA, full stack developer, from La Réunion in France
 Welcome to my profile! I am a passionate full stack developer specializing in creating robust and high-performance web applications. I have strong experience in both front-end and back-end development, and I'm always looking to learn new technologies to enhance my skills.
 
 ## 🌟 **Technical Skillz**
