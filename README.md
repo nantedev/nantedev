@@ -3,7 +3,7 @@ Welcome to my profile! I am a passionate full stack developer specializing in cr
 
 ## 🌟 **Technical Skillz**
 
-| **Catégorie**  | **Technologies**                                                                                                                                              |
+| **Catégory**  | **Technologies**                                                                                                                                              |
 |----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Front-End**  | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) |
 | **Back-End**   | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  |
@@ -17,7 +17,7 @@ Welcome to my profile! I am a passionate full stack developer specializing in cr
 ![Top Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=nantedev&layout=compact&langs_count=8&theme=default&hide=html&hide_title=true)
 
 ## 📫 **Contact Me**
-- **site web** : https://www.mickaelandria.fr
+- **web site** : https://www.mickaelandria.fr
 - **email** : mickael.aajaona at gmail.com 
 
 ## 🛠️ **Projects**
