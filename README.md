@@ -18,7 +18,6 @@ Welcome to my profile! I am a passionate full stack developer specializing in cr
 
 ## 📫 **Contact Me**
 - **web site** : https://www.mickaelandria.fr
-- **email** : mickael.aajaona at gmail.com 
 
 ## 🛠️ **Projects**
 Check out some of my projects in the repositories below to see how I have applied these technologies in real-world contexts.
