@@ -11,6 +11,7 @@ Welcome to my profile! I am a passionate full stack developer specializing in cr
 | **Database**   | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  |
 | **Development** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  |
 | **Production** | ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white) ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) |
+| **CMS**         | ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white) ![Webflow](https://img.shields.io/badge/Webflow-4353FF?logo=webflow&logoColor=white)          |
 
 ## 📊 **Top Languages Used**
 
