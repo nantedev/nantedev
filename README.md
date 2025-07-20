@@ -24,6 +24,7 @@ Welcome to my profile! I am a passionate full stack developer specializing in cr
 ![Top Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=nantedev&layout=compact&langs_count=8&theme=default&hide=html&hide_title=true)
 
 ## 📫 **Contact Me**
+- formation@mickaelandria.fr
 - **web site** : https://www.mickaelandria.fr
 
 ## 🛠️ **Projects**
