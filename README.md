@@ -25,7 +25,6 @@ Welcome to my profile! I am a passionate full stack developer specializing in cr
 
 ## 📫 **Contact Me**
 - formation@mickaelandria.fr
-- **web site** : https://www.mickaelandria.fr
 
 ## 🛠️ **Projects**
 Check out some of my projects in the repositories below to see how I have applied these technologies in real-world contexts.
